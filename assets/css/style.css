@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: #423026;
+    color: white;
+}
+
+#addTrain {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
